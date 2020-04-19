@@ -1,5 +1,2 @@
 C:\dev\Kraken-Repository\src\main\java\lambethd\kraken\data\mongo\repository\IConfigRepository.java
-C:\dev\Kraken-Repository\src\main\java\lambethd\kraken\data\mongo\repository\ITradeRepository.java
-C:\dev\Kraken-Repository\src\main\java\lambethd\kraken\data\mongo\repository\IStockMarketDataRepository.java
-C:\dev\Kraken-Repository\src\main\java\lambethd\kraken\data\mongo\repository\IRiskFactorRepository.java
-C:\dev\Kraken-Repository\src\main\java\lambethd\kraken\data\mongo\repository\IStockTradeRepository.java
+C:\dev\Kraken-Repository\src\main\java\lambethd\kraken\data\mongo\repository\IItemRepository.java
