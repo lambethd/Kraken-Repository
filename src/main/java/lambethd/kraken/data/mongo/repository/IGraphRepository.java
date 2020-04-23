@@ -4,5 +4,5 @@ import org.springframework.data.mongodb.repository.MongoRepository;
 import runescape.Graph;
 
 public interface IGraphRepository extends MongoRepository<Graph, String> {
-    Graph getGraphByItemId(Integer id);
+    Graph getGraphById(Integer id);
 }
