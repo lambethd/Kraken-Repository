@@ -1,0 +1,8 @@
+lambethd\kraken\data\mongo\repository\IUserRepository.class
+lambethd\kraken\data\mongo\repository\ITradeRepository.class
+lambethd\kraken\data\mongo\repository\ICurrentTradeRepository.class
+lambethd\kraken\data\mongo\repository\IConfigRepository.class
+lambethd\kraken\data\mongo\repository\IItemRepository.class
+lambethd\kraken\data\mongo\repository\IPositionRepository.class
+lambethd\kraken\data\mongo\repository\IGraphRepository.class
+lambethd\kraken\data\mongo\repository\ISpreadRepository.class
