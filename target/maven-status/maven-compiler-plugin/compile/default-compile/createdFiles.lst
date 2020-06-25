@@ -6,3 +6,4 @@ lambethd\kraken\data\mongo\repository\IItemRepository.class
 lambethd\kraken\data\mongo\repository\IPositionRepository.class
 lambethd\kraken\data\mongo\repository\IGraphRepository.class
 lambethd\kraken\data\mongo\repository\ISpreadRepository.class
+lambethd\kraken\data\mongo\repository\IUserSettingsRepository.class
