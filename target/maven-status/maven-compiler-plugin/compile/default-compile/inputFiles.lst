@@ -2,8 +2,11 @@ C:\dev\Kraken-Repository\src\main\java\lambethd\kraken\data\mongo\repository\ICo
 C:\dev\Kraken-Repository\src\main\java\lambethd\kraken\data\mongo\repository\ITradeRepository.java
 C:\dev\Kraken-Repository\src\main\java\lambethd\kraken\data\mongo\repository\IGraphRepository.java
 C:\dev\Kraken-Repository\src\main\java\lambethd\kraken\data\mongo\repository\IItemRepository.java
+C:\dev\Kraken-Repository\src\main\java\lambethd\kraken\data\mongo\repository\IJobDetailRepository.java
+C:\dev\Kraken-Repository\src\main\java\lambethd\kraken\data\mongo\repository\IJobRepository.java
 C:\dev\Kraken-Repository\src\main\java\lambethd\kraken\data\mongo\repository\IUserSettingsRepository.java
 C:\dev\Kraken-Repository\src\main\java\lambethd\kraken\data\mongo\repository\ICurrentTradeRepository.java
+C:\dev\Kraken-Repository\src\main\java\lambethd\kraken\data\mongo\repository\IEventRepository.java
 C:\dev\Kraken-Repository\src\main\java\lambethd\kraken\data\mongo\repository\ISpreadRepository.java
 C:\dev\Kraken-Repository\src\main\java\lambethd\kraken\data\mongo\repository\IPositionRepository.java
 C:\dev\Kraken-Repository\src\main\java\lambethd\kraken\data\mongo\repository\IUserRepository.java
