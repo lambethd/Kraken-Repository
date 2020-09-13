@@ -12,5 +12,7 @@ public interface IJobRepository extends MongoRepository<IJob, String> {
 
     IJob findById(String id);
 
+    List<IJob> findByUsernameAndRuneDay(String username, int runeDay);
+
     Boolean existsByJobTypeAndStatusAndRuneDay(JobType jobType, JobStatus status, int runeDay);
 }
